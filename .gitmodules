@@ -1,0 +1,3 @@
+[submodule "RAVDESS-emotions-speech-audio-only"]
+	path = RAVDESS-emotions-speech-audio-only
+	url = https://github.com/ZenvilleErasmus/RAVDESS-emotions-speech-audio-only.git
