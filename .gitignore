@@ -1,0 +1,5 @@
+test_emotion_dataset/*
+.vscode
+wandb
+__pycache__
+chkpts
